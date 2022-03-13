@@ -1,6 +1,6 @@
 const sqlite3 = require('sqlite3');
 
-let db =  new sqlite3.Database('baiboly_v2.db', sqlite3.OPEN_READWRITE, (err) => {
+let db =  new sqlite3.Database('baiboly.db', sqlite3.OPEN_READWRITE, (err) => {
     if (err) {
       return console.error(err.message);
     }
