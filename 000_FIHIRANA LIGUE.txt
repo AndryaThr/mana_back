@@ -132,7 +132,7 @@ Dia tsy afaka am-bavanay ny hoe:
 ��Ampy ho anao ny fahasoavako��
 
 Raha maraina mibaliaka
- ny andronay ety
+ny andronay ety
 Ianao no masoandro nihaviany
 Na ny alin�ny ririnina mandalo ety
 
@@ -148,7 +148,7 @@ Mbola tokana ny deranay hoe
 ��Ampy ho anao ny fahasoavako�
 
 Raha maraina mibaliaka
- ny andronay ety
+ny andronay ety
 Ianao no masoandro nihaviany
 Na ny alin�ny ririnina mandalo ety
 Ianao no kintana hitantana ny dia
@@ -244,7 +244,7 @@ Tia ahy tokoa Ianao.
 
 008
 Misaotra Anao izahay,
- Ry Jehovah Ray �,
+Ry Jehovah Ray �,
 Fa lehibe ny Fitiavanao
 Aizina no hitako hatramin�izay
 Fa indro mazava no naposakao
@@ -290,7 +290,7 @@ Le clair matin,
 et les ombres du soir
 
 De tout mon c�ur
- Alors s��l�ve un chant
+Alors s��l�ve un chant
 Dieu Tout Puissant, 
 que Tu es Grand (2)
 
@@ -376,7 +376,7 @@ Mandrakizay Amen
 Hidera sy hankalaza
 ny Anaranao Aho
 Hisaotra sy hanome
- voninahitra Anao aho
+voninahitra Anao aho
 Fa Andriamanitra
 Mendrika hoderaina Ianao
 Mampaharitra ny
@@ -386,7 +386,7 @@ Mandrakizay Amen.
 Noho ny Aminao dia
 mandositra ny fahavalonay (olon�afaka e!)
 Ts�isy intsony izao
- ireo gadra mamatotra
+ireo gadra mamatotra
 (tena afaka)
 Voninahitra Haleloia
 No asandratray
@@ -574,7 +574,7 @@ Brillant de lumi�re
 L�ange est descendu
 Il roula la pierre
 Du tombeau vaincu !
- A Toi la gloire, o! Ressuscit�
+A Toi la gloire, o! Ressuscit�
 A Toi la victoire pour l��ternit�
 
 Vois le para�tre,
@@ -650,7 +650,7 @@ Atolotro Anao ny tenako
 Tiako dia tiako Ianao !
 
 Fanahy masina �,
- mankalaza Anao aho
+mankalaza Anao aho
 Atolotro Anao ny tenako
 Tiako dia tiako Ianao !
 
@@ -658,9 +658,9 @@ Tiako dia tiako Ianao !
 Tendre P�re, j�aime
 Te contempler (2)
 Je T�offre ma vie,
- je chante Ta gloire
+je chante Ta gloire
 Tendre P�re, j�aime
- Te contempler !
+Te contempler !
 
 Fils de Dieu, j�aime
 exalter Ton Nom (2)
@@ -691,9 +691,9 @@ Au Nom puissant de J�sus-Christ
 De Nazareth, l�ve-toi et marche !
 
 Et marchons et sautons
- et louons Dieu
+et louons Dieu
 Et marchons et sautons
- et louons Dieu
+et louons Dieu
 Au nom puissant 
 de J�sus-Christ de Nazareth, l�ve-toi et marche !
 
@@ -1457,7 +1457,7 @@ Tarigetra hotratrarina
 Dia ny hiakatra any an-danitra
 Ka nahoana raha mifankatia
 Sa ahoana e!
- IZANY MIHITSY E!
+IZANY MIHITSY E!
 
 Mifankatiava e e! (8x)
 
@@ -1544,7 +1544,7 @@ I was made for You.
 
 057
 Je n�ai que Toi,
- que Toi dans le ciel
+que Toi dans le ciel
 Je ne d�sire rien d�autre
 que Toi sur la terre
 Si je suis faible,
@@ -2330,7 +2330,7 @@ Dans ce beau pays l�-haut
 Oui, J�sus nous aime (2)
 Dans ce paradis l�-haut
 
- Quelqu�un nous attend (2)
+Quelqu�un nous attend (2)
 Dans ce beau pays l�-haut
 Quelqu�un nous attend (2)
 Dans ce paradis l�-haut
@@ -2900,7 +2900,7 @@ Rehefa voatandriny ny sakafom-panahy
 
 Miandalandalana ny fitomboany 
 Fitomboana amin�ny saina, vatana ary fanahy
- Miandalandalana ny fitomboany
+Miandalandalana ny fitomboany
 Raha avelany hanjaka ny asan�Ilay Fanahy. 
 
 105
@@ -2937,7 +2937,7 @@ Ny ainao hamonjena anay.
 Nous venons dans Ta maison
 Et nous nous assemblons
 Pour T�adorer (2)
- Nous venons dans Ta maison
+Nous venons dans Ta maison
 Et nous nous assemblons
 Pour T�adorer J�sus
 T�adorer, Te louer Seigneur !
@@ -2945,7 +2945,7 @@ T�adorer, Te louer Seigneur !
 Tu nous donnes Ta justice
 Et Tu nous affranchis
 Pour T�adorer (2)
- Tu nous donnes Ta justice
+Tu nous donnes Ta justice
 Et Tu nous affranchis
 Pour T�adorer J�sus!
 T�adorer, Te louer Seigneur !
@@ -2953,7 +2953,7 @@ T�adorer, Te louer Seigneur !
 Nous levons nos mains vers Toi
 Et nous Te contemplons
 Pour T�adorer (2)
- Nous levons nos mains vers Toi
+Nous levons nos mains vers Toi
 Et nous Te contemplons
 Pour T�adorer, J�sus !
 T�adorer, Te louer Seigneur !
@@ -3420,7 +3420,7 @@ Vory eto izahay
 hiaraka mivavaka
 Mafy anie ny lalana hizoranay
 Ry Tompo �
- Vory eto izahay
+Vory eto izahay
 hiaraka mivavaka
 Miray fo ao aminao Rainay
 
@@ -3449,7 +3449,7 @@ Tsy vitam-po onena
 Tsy vitan-dranomaso
 Ny asam-pamonjena
 Tsy azo atao
- mifampiandry andrasoTsy azo ifanerena
+mifampiandry andrasoTsy azo ifanerena
 Mila fandavan-tena
 Sy hery avy ao anaty
 Herim-po, herin-tsaina koa
@@ -3497,7 +3497,7 @@ Fa samy zanakao
 Seigneur, nous arrivons des
 4 coins de l�horizon
 Nous voil� chez Toi (2)
- Seigneur, nous arrivons des 4 coins de l�horizon
+Seigneur, nous arrivons des 4 coins de l�horizon
 Dans Ta maison.
 
 Nous avons march�
@@ -3957,7 +3957,7 @@ Tsy lakana ny lakana
 raha toa ka
 Tsy hahatafita anao
 andafin�ny ony ery
- Tsy lakana ny lakana
+Tsy lakana ny lakana
 raha toa ka
 Mifidy ny toetr�andro
 Vao hahatafita anao
@@ -4179,7 +4179,7 @@ aho Tompo �
 
 Tsy hisento (2)
 Tsy hisento intsony re
- Nandevozina aho taloha
+Nandevozina aho taloha
 Afaka aho ankehitriny
 Hody any Aminao
 aho Tompo �
@@ -4335,7 +4335,7 @@ O, suis-Le (2) par la foi
 Et maintenant saisis
 La main de Ton Sauveur
 Car Lui seul te donne
- l�Eternel bonheur
+l�Eternel bonheur
 Il a donn� sa vie sur la croix
 O, suis-Le (2) par la foi
 
@@ -4461,7 +4461,7 @@ No anoseho an�i Satana
 
 158
 Misy adin-tsaina ve
- eo amin�ny fiainanao
+eo amin�ny fiainanao
 Sy enta-mavesatra
 Ka mila tsy ho zakanao
 Izay rehetra jerena
@@ -5622,7 +5622,7 @@ Hanazava ny lala-mankao
 
 Faing�na (3) ry namako �
 Andao e! (2)
- hanantona ny Tompo izao
+hanantona ny Tompo izao
 
 Ny dimy dia adala satria re
 Tsy nanomana solika soa
@@ -5671,7 +5671,7 @@ Lalan-tsilo any iny e !
 Miaraka amin�ny Tompo e !
 Noenjehina any iny e 
 
- Iny lalako iny e (2)
+Iny lalako iny e (2)
 Hazo fijaliana
 Nolanjaiko tamin�iny lalako iny.
 
@@ -5680,12 +5680,12 @@ Lala-mafy any iny e !
 Miaraka amin�ny Tompo e !
 Noenjehina an�iny e !
 
- Iny lalako iny e (2)
- Hazo fijaliana
- Nolanjaiko tamin�iny lalako iny.
- 
- 206
- � izany diako
+Iny lalako iny e (2)
+Hazo fijaliana
+Nolanjaiko tamin�iny lalako iny.
+
+206
+� izany diako
 mahitsy hatrany re
 Ho any aminao
 (ho any aminao ry Tompo)
@@ -5751,7 +5751,7 @@ Longoko � (3)
 209
 Sambatra ny fo izay matoky Anao
 Tsy atopatopan�onja
- fa manana Anao
+fa manana Anao
 Na dia samy hisedra ihany
 Zava-tsarotra eto an-tany
 Dia sambatra ny fo
@@ -5970,7 +5970,7 @@ Fa aty ny tenanao !
 
 218
 M�me si tu es dans ce
- d�sert citadin
+d�sert citadin
 O� l�homme ne vit que
 pour son pain quotidien
 La solitude y es le lot de chacun
@@ -6049,18 +6049,18 @@ Mahafinaritra ny Tompo !
 
 Mampahery ny Tompo (2)
 Fiandohana, fiafarana
- Mampahery ny Tompo !
+Mampahery ny Tompo !
 
 Manasitrana ny Tompo (2)
 Fiandohana, fiafarana
- Manasitrana ny Tompo !
+Manasitrana ny Tompo !
 
 Manasitrana ny Tompo (2)
 Fiandohana, fiafarana
- Manasitrana ny Tompo !
- 
- 222
- Misy tanana mitsotra
+Manasitrana ny Tompo !
+
+222
+Misy tanana mitsotra
 Te hamihina ny tananao
 Misy maso manantena
 Fa hahita indray ny endrikao
@@ -6072,7 +6072,7 @@ Ilay fomba namonjeny anao
 Nandatsahany ny rany
 Tamin�ny hazo fijaliana
 Tamin�izay ianao
- diboka hafaliana
+diboka hafaliana
 
 Fantatrao fa zava-poana 
 Raha izao fiainana izao
@@ -6356,7 +6356,7 @@ feno fitahiana...
 feno fiadanana...
 
 Moin pou al�
- la case �  mon Papa (2)
+la case �  mon Papa (2)
 Y en a la Joie 
 Moin pou al�
 la case � mon Papa.
@@ -6418,11 +6418,11 @@ Ireny zandrinay ireny
 
 Zary menatra izahay
 Fa lazaina mpanonofy
- � ry Tompo �,
- Fa lazaina mpanonofy 
+� ry Tompo �,
+Fa lazaina mpanonofy 
 Sy mpandrendrika vahoaka
 � ry Tompo �
- Sy mpandrendrika vahoaka Hanantena ny tsy misy
+Sy mpandrendrika vahoaka Hanantena ny tsy misy
 
 Fa impiry moa �zahay
 No vonoina noho Ianao
@@ -6463,26 +6463,26 @@ Tsy mitombo fa mihena
 
 Olon-dresy hamavoina
 Olo-marina vonoina
- � ry Tompo �,
+� ry Tompo �,
 Olo-marina vonoina
 Anirahanao anay,
- � ry Tompo �,
+� ry Tompo �,
 Anirahanao anay
 Nefa miahotra izahay !
 
 Fa impiry moa Ianao
 No nilaza taminay
- � ry Tompo �,
+� ry Tompo �,
 Fa ny lalam-pamonjena
 No natolotrao anay
- � ry Tompo �,
+� ry Tompo �,
 
 Famonjena itokiana
 Tamin�ny hazofijaliana
- � ry Tompo �,
+� ry Tompo �,
 Tamin�ny hazofijaliana
 Efa nentinao nandresy
- � ry Tompo �,
+� ry Tompo �,
 Efa nentinao nandresy
 An�izao tontolo izao.
 
@@ -6600,7 +6600,7 @@ ny sasany
 Tsy mba tsaroany
 ny andro alahady
 Miasa tany,
- mibalady mandray angady
+mibalady mandray angady
 Ka izany ve no mivavaka ?
 
 Tsy izany velively ar� mivavaka
@@ -6643,7 +6643,7 @@ Je loue Ton Nom Eternel,
 Seigneur, je c�l�bre Ta bont�
 Quelle joie Tu vis en moi
 Quelle joie Tu viens
- pour nous sauver.
+pour nous sauver.
 
 Tu viens du ciel sur la terre
 Porter la croix
@@ -6714,7 +6714,7 @@ El Shaddai, El Shaddai
 El Elyona adonai
 D��ge en �ge Tu es le M�me
 Par le Nom puissant que j�aime
- El Shaddai, El Shaddai 
+El Shaddai, El Shaddai 
 Erkamkana Adonai
 Tu as gagn� la bataille
 El Shaddai.
@@ -6730,7 +6730,7 @@ El Shaddai, El Shaddai
 El Elyona Adonai
 Age to age You�re still the same
 By the power of your Name
- El Shaddai, El Shaddai
+El Shaddai, El Shaddai
 El Elyona Adonai
 We will praise Your till we die
 El Shaddai.
@@ -6820,7 +6820,7 @@ Velona mandrakizay
 Ankalazao Jeso, ankalazao (2)
 
 Celebrate Jesus, celebrate (4
- is risen, He is risen
+is risen, He is risen
 And He lives forever more
 He is risen, he is risen
 Come on and celebrate
@@ -6875,7 +6875,7 @@ Dia isehoan�ny voninahitrao.
 
 248
 Endrika sariaka no anompoako
- Anao Jehovah Ray
+Anao Jehovah Ray
 Fa tapaka ny hevitro
 Izaho dia olonao mandrakizay
 He ny foko, afa-jaly
@@ -7028,7 +7028,7 @@ Fa Kristy velona �, ato anatiko
 
 252
 I have decided to
- follow Jesus (3)
+follow Jesus (3)
 No turning back (2)
 The world behind me
 The cross before me (3)
@@ -7038,7 +7038,7 @@ Though no one joins me
 I still will follow (3)
 No turning back (2)
 Will you decide now
- to follow Jesus (3)
+to follow Jesus (3)
 No turning back. (2)
 
 253
@@ -7091,20 +7091,20 @@ f�izao atao:
 Tadiavo Jeso f�Izy mitady anao
 
 Ny fiainanao ve
- mampivadika atidoha
+mampivadika atidoha
 Ny hoavinao ve 
 tsy azo antenaina koa
 Efa mila hamoy fo
- sady kivy ve ianao ?
+sady kivy ve ianao ?
 Jeso no antsoy
- zao ankehitriny izao
+zao ankehitriny izao
 
 Izay vavaka tena avy ao am-po
 Reny avokoa
 Ka valiany ianao isan�andro izao
 Asiany soa
 Raha sendra manjo tadidio
- f�izao atao:
+f�izao atao:
 Tadiavo Jeso f�Izy mitady anao
 
 255
@@ -7116,7 +7116,7 @@ Nous sommes un
 Dans un lien d�amour
 
 Maintenant chantons
- tous ensemble
+tous ensemble
 Et que son Amour se r�pande
 Tenons-nous par la main
 Et le monde verra
@@ -7288,7 +7288,7 @@ Aujourd�hui guide moi
 Un jour � la fois.
 
 Enseigne-nous � bien
- compter nos jours,
+compter nos jours,
 A rechercher de tout c�ur
 la sagesse
 Rassasie-nous de ta bont�
@@ -7425,9 +7425,9 @@ Matoky Anao aho ka tsy manahy
 Matoky Anao �zahay
 Miandry ny marina
 Fantatray Ianao
- fa tsy mba miangatra
+fa tsy mba miangatra
 Tompo �, miandrandra
- Anao �zahay
+Anao �zahay
 Miandry ny rariny
 Tsy manahy ny fanahy
 Fa manana Anao.
@@ -7521,10 +7521,10 @@ P�lissent � ta lumi�re
 
 O je T�adore; Oui je T�adore
 Si je vis Seigneur
- c�est pour T�adorer
- 
- 267
- Day after day, after day
+c�est pour T�adorer
+
+267
+Day after day, after day
 You have been faithful to me
 Day after day, after day
 I�ve known your grace
@@ -7537,7 +7537,7 @@ I will praise Your Name
 Day after day, after day
 You are my saviour my friend
 Day after day, after day
- I�m not alone
+I�m not alone
 Day after day, week after week
 Year after year
 You will be right to guide me
@@ -7686,7 +7686,7 @@ Na faly aho na ontsa
 Hidera sesilany
 Ny masoko na kotsa
 Hahita Anao hatrany
- Ireny rehetra ireny
+Ireny rehetra ireny
 No hiderako Anao
 
 Ka sahiko ny miteny
@@ -7713,12 +7713,12 @@ Au milieu de l�effroi
 Aujourd�hui je ne demande rien
 Dans la fra�cheur du matin
 Je suis venu Te dire
- que je T�aimais
+que je T�aimais
 
 Je T�aime Seigneur
 Les mots sont bien imparfaits
 Mais je sais que Tu lis
- dans mon c�ur
+dans mon c�ur
 Et dans ses profondeurs
 Je T�aime Seigneur
 Ton amour reste le m�me
@@ -7769,10 +7769,10 @@ Ny harivako hazava, Jeso !
 Ny fotoana dia handalo, Jeso !
 Ka tsy hisy hampimalo, Jeso !
 Raha miorina ao am-poko, Jeso 
- fitiavanao hinoako, Jeso !
- 
- 275
- Momb� anay ry Jeso Tompo � !
+fitiavanao hinoako, Jeso !
+
+275
+Momb� anay ry Jeso Tompo � !
 Fa maizina ny alina aty ;
 Tsy misy vonjy raha tsy Aminao,
 Mpamonjy tia �, momb� anay.
@@ -7895,7 +7895,7 @@ Ma gr�ce te suffit�! �
 Hisaotra an�i Jehovah
 lalandava aho
 Ho eo am-bavako mandrakariva
- ny fider�na Azy e!
+ny fider�na Azy e!
 Hoderaiko satria lehibe
 Ny fitiavan�i Jehovah
 Fa fitiavana mandrakizay
@@ -7929,13 +7929,13 @@ Eo amin�ny fiangonany mandrakizay
 Mandrakizay, e mandrakizay.
 
 Derao Izy amin�ny
- feon�anjomara
+feon�anjomara
 Derao Izy amim-baliha
- sy lokanga
+sy lokanga
 Derao izy amin�ny jejy
- sy ny sodina
+sy ny sodina
 Derao Izy amin�ny
- dihy sy ny amponga
+dihy sy ny amponga
 
 Ny voninahitr�Andriamanitra Ray
 Mamirapiratra eo amin�i Kristy
@@ -7943,9 +7943,9 @@ Eo amin�ny fiangonany mandrakizay
 Mandrakizay, e mandrakizay
 
 Derao Andriamanitra
- be voninahitra
+be voninahitra
 Derao koa ny Zanaka
- fa voninahiny
+fa voninahiny
 Derao ny fanahiny 
 noho Izy nirahiny
 Hampientana antsika
@@ -8154,13 +8154,13 @@ Raiso re ny zanakao.
 
 287
 Jesosy be fitiavana
- miantso anao ��avia�� !
+miantso anao ��avia�� !
 Maniry te-hihavana
- aminao mpania
+aminao mpania
 Ny fony malahelo,
- mangoraka fitia
+mangoraka fitia
 Henoy mamelovelo:
- ry oloko modia !
+ry oloko modia !
 
 Ny ota mampisaraka
 ny heloka efa vita,
@@ -8494,7 +8494,7 @@ Ny mpanomponao
 araky ny teninao
 
 �Lay hazavana natao
- hanilo ny firenena
+hanilo ny firenena
 Voninahitray vahoaka voafidinao
 
 Dia Ilay Mesia Zanakao
@@ -8503,9 +8503,9 @@ Hiditra ao an-danitra ao.
 
 300
 Efa resy izao
- na dia ny fasana aza
+na dia ny fasana aza
 Ka asandrato re
- ny hira sy ny feo
+ny hira sy ny feo
 Jesosy nampikoy
 �Lay rafy izay nandoza
 ��Ry fahafatesana � !
@@ -8517,7 +8517,7 @@ Fa torotoro izao
 ny fahavalonao
 Tsy nahatohitra
 ny sandrin�i Jesosy
- ��Ry fahafatesana � !
+��Ry fahafatesana � !
 Aiza moa ny herinao ?��
 
 Efa lasa tokoa
@@ -8526,7 +8526,7 @@ Nasehon�i Jeso
 miharihary izao
 Ny fitiavany izay
 tsy misy fetra !
- ��Ry fahafatesana � !
+��Ry fahafatesana � !
 Aiza moa ny herinao ?��
 
 Kristy no santatra
@@ -8534,7 +8534,7 @@ ny lalana mankany
 Ho ao an-tranon-dRay
 Mivoha tsara izao
 Ny fifaliana manerana ny tany
- ��Ry fahafatesana � !
+��Ry fahafatesana � !
 Aiza moa ny herinao ?��
 
 Kristy no fiainana:
@@ -8543,7 +8543,7 @@ Omeny tanjaka,
 fanahy, fo vaovao
 Ka ataony velona
 Mpandresy tahaka Azy
- ��Ry fahafatesana � !
+��Ry fahafatesana � !
 Aiza moa ny herinao ?��
 
 301
@@ -8724,9 +8724,9 @@ Hitafy toe-baovao
 308
 Fa ia e! Ia ro nanavao anao e !
 Ro vona tsa miraika
- hatram�izao e !
+hatram�izao e !
 Fa leky nogodagodanina
- agnao e! e!
+agnao e! e!
 Vona tsa miraika mba ho vao e!
 
 Atsia atoy !
@@ -8933,9 +8933,9 @@ Ndrao lahy izao no farany !
 
 Misy fo tsy vangiany intsony re
 Fo mihidy hatrizay,
- mamanala tokoa
+mamanala tokoa
 Tsy misokatra raha
- tsy miantso Jeso
+tsy miantso Jeso
 Kanjo izay lahy no farany !
 
 �Ndrao lahy izao no farany (2)
@@ -8960,22 +8960,22 @@ Hanendry izay mpitondra
 Ka fiadanana anie
 Sy fandriam-pahalemana
 No ampanjakao eto
- amin�ny taninay
- 
- 317
- Fantatro fa maro tokoa
+amin�ny taninay
+
+317
+Fantatro fa maro tokoa
 Ireo hira tsara
 Tsy afaka am-bavanao e !
 Maro izy ireo no mahasoa
 Ao ny manentana
- mba hilalao e!
+mba hilalao e!
 
 Nefa asa hoy aho
- fa tiako ny ahy
+fa tiako ny ahy
 Ka tsy mba atakaloko
- ny an�ny hafa e !
+ny an�ny hafa e !
 Ka na hira inona no
- hanana fahatsar�na
+hanana fahatsar�na
 Dia aleoko ihany ny fider�na
 
 Ka hohiraiko foana e !
@@ -8987,13 +8987,13 @@ no tsy ho lalaiko.
 
 Misy aza moa mandratra fo
 Hira izay mandoaka
- ny fery anaty e!
+ny fery anaty e!
 Hiram-pitia izay nahavoa
 Nefa dia be mpitia
- sady be mpitady e !
+sady be mpitady e !
 
 Nefa asa ho aho,
- fa tiako ny ahy
+fa tiako ny ahy
 Ka tsy mba atakaloko
 ny an�ny hafa e !
 Na na hira inona no
@@ -9063,7 +9063,7 @@ Nokoloinao tanteraka
 
 Mamiko Ianao, mamiko tokoa
 Satria mpanasoa
- sy mpanamboatra
+sy mpanamboatra
 Mahatonga ahy ho sambatra
 sy ho velona finaritra
 
@@ -9263,7 +9263,7 @@ Havako � ! Fantatro
 fa tsapanao izao
 Fa mijoro eo anilanao
 Ka maniry Izy ho ao anatinao
- Havako � ! 
+Havako � ! 
 
 Ny fonao no angatahiny
 Itoerany ho lapany
@@ -9271,10 +9271,10 @@ Ka vohay, � mba vohay !
 Fa Jeso io mandona io.
 
 Namako � ! �Zay efa renay
- sy hitanay
+sy hitanay
 �Zay nandramanay ka fantatray
 Dia mahay
- manafaka ny fatotrao
+manafaka ny fatotrao
 Namako � !
 
 Tsy anganongano fotsiny
@@ -9294,7 +9294,7 @@ Hiadana ny fanahy
 Rehefa i Jeso no mitoera
 Ao anatin�ny fonao
 Ny tahotra ho lasa,
- finoana no miasa
+finoana no miasa
 E ! Falifaly e ! E ! Korana e 
 
 329
@@ -9393,7 +9393,7 @@ Feo mibitsika hoe:
 
 332
 E, ry mpanota manary
- fanahy � !
+fanahy � !
 Ts�isy ny vonjy
 antenaina intsony
 Mba te-hibebaka nefa
@@ -9402,16 +9402,16 @@ Feno ny ota tokoa
 �zany fony.
 
 Eny e, tsy misy natao
- tsy ho faty anie
+tsy ho faty anie
 Samy miandry ny
 anjarany rahatrizay
 Maty fa tsy mba
 mibebaka akory dia
 Helo no honenany
- mandrakizay.
- 
- 333
- Iriko ianao ry Noely
+mandrakizay.
+
+333
+Iriko ianao ry Noely
 Amin�ity indray mandeha ity
 Ho Noely hafakely
 Noho izay efa hitako taty
@@ -9609,7 +9609,7 @@ Tsy mandao anao
 
 338
 Atolotro Anao
- ny tenako ry Raiko
+ny tenako ry Raiko
 Fa Ianao no tena
 loharanon-tsoa
 Izao tontolo izao
@@ -9673,7 +9673,7 @@ quand vient le doute
 
 Fid�lement, je veux Le suivre
 Je veux marcher
- dans ses sentiers
+dans ses sentiers
 Il est la main qui nous d�livre
 De la folie de mes projets
 
@@ -9714,7 +9714,7 @@ et je la re�ois
 
 Gloire � Dieu (2)
 Terre �coute sa voix
- Gloire � Dieu (2)
+Gloire � Dieu (2)
 Monde r�jouis-toi
 O! venez au P�re
 J�sus est vainqueur
@@ -9722,7 +9722,7 @@ Que toute la terre chante
 en son honneur.
 
 De J�sus la joie
- remplit notre c�ur
+remplit notre c�ur
 Qu�importe ce qu�on voit
 Tout notre bonheur
 Selon sa promesse
@@ -9780,7 +9780,7 @@ Cherchant la voie ?
 
 Sans Ta lumi�re Seigneur,
 O� irions-nous
- dans ce monde ?
+dans ce monde ?
 Que d�cider ? Qui �couter ?
 Que ferions-nous ?
 
@@ -9871,11 +9871,11 @@ A toi l�honneur, Roi serviteur.
 
 Apprenons donc � servir,
 En laissant Christ
- r�gner en nous.
+r�gner en nous.
 Car en aimant nos prochains,
 C�est J�sus Christ
- que nous servons.
- 
+que nous servons.
+
 346
 Toi et moi unis par
 le don de sa vie
@@ -10165,7 +10165,7 @@ Ny Tompo no hanatanteraka izany.
 Androany aloha
 Mety ho malomaloka tokoa
 Toa tandrifin-drahona
- izany lanitrao e !
+izany lanitrao e !
 
 Koa mitrak�
 Fa ny Tompo mampatsiahy
@@ -10259,7 +10259,7 @@ Ianao no mampahery ahy
 361
 God will make a way
 Where there seems
- to be no way
+to be no way
 He works in ways
 We cannot see
 He will make a way for me
@@ -10276,7 +10276,7 @@ Rivers in the desert will I see
 Heaven and earth will fail
 But His words must still remain
 He will do something
- new today.
+new today.
 
 Misy lalana izay
 nomaniny ho ahy
@@ -10296,7 +10296,7 @@ Fa hanao lalam-baovao ho ahy
 Tiako loatra ny midera Anao
 Ry Andriamanitra fitiavana �
 Andriamanitra avo
- indrindra Ianao
+indrindra Ianao
 Nefa dia nitia anay
 
 Naneho ny fitiavanao Ianao
@@ -10305,7 +10305,7 @@ Maty ho ahy tokoa ny Zanakao
 Mba ho fanavotana ahy.
 
 Ka na iza haniratsira
- sy hanenjika, hanaratsy Anao
+sy hanenjika, hanaratsy Anao
 Mbola asandratro ny hira
 Hanohy ny fider�na Anao
 
@@ -10325,7 +10325,7 @@ Nataonao ambany kely
 Noho Andriamanitra avo Izy
 
 Ka na iza haniratsira
- sy hanenjika, hanaratsy Anao
+sy hanenjika, hanaratsy Anao
 Mbola asandratro ny hira
 Hanohy ny fider�na Anao
 
@@ -10337,7 +10337,7 @@ Ibitsiho f�Ianao koa mbola tia.
 Tiako loatra ny midera Anao
 Ry Andriamanitra fitiavana �
 Andriamanitra avo
- indrindra Ianao
+indrindra Ianao
 Nefa dia nitia anay
 
 363
@@ -10391,7 +10391,7 @@ Ka mba hiasanay saina
 Hahazoanay ny soa
 Isan�andro (2)
 �Zay iainanay ety
- 
+
 ADDITIVE
 
 ABOVE ALL
@@ -10405,7 +10405,7 @@ the world began.
 Above all kingdom,
 above all thrones
 Above all wonder
- the world has ever know
+the world has ever know
 Above all weath
 and treasures of the earth
 There�s no way, no measure 
@@ -10419,7 +10419,7 @@ Like a rose trampled
 on the ground
 You look the fall
 and you thought of me.
-ABOVE ALL !
+above all !
 
 ALMIGHTY GOD
 Almighty God, my Redeemer
@@ -10578,7 +10578,7 @@ COMMENT NE PAS TE LOUER
 Comment ne pas
 Te louer Seigneur,
 Comment ne pas Te louer
- Comment ne pas
+Comment ne pas
 Te louer Seigneur, 
 Seigneur J�sus
 
@@ -10620,7 +10620,7 @@ Izany indrindra no ifaliako
 Holazaiko sy hotantaraiko tokoa ny Anaranao
 Fa Anarana manan-kery
 manala ny manjo
- Mihetsiketsika te-handihy
+Mihetsiketsika te-handihy
 anie ny tongotro
 Mientanentana hafaliana
 ao an-tratrako.
@@ -10629,7 +10629,7 @@ Ny Anaranao Jeso
 dia Anarana mahagaga
 Fa manova sy mahasoa
 ny fiainana
- Mihetsiketsika te-handihy anie ny tongotro
+Mihetsiketsika te-handihy anie ny tongotro
 Mientanentana
 hafaliana ao an-tratrako.
 
@@ -10715,7 +10715,7 @@ vao mandroso ao.
 
 HEVENOU SHALOM
 Hevenou Shalom, Al�rem (3)
- Hevenou Shalom, shalom
+Hevenou Shalom, shalom
 Shalom Al�rem.
 
 Nous vous annon�ons
@@ -10723,7 +10723,7 @@ la paix (4)
 La paix de J�sus
 
 Hevenou Shalom, Al�rem (3)
- Hevenou Shalom, shalom
+Hevenou Shalom, shalom
 Shalom Al�rem.
 
 Nous vous annon�ons
@@ -10731,7 +10731,7 @@ la joie (4)
 La joie de J�sus
 
 Hevenou Shalom, Al�rem (3)
- Hevenou Shalom, shalom
+Hevenou Shalom, shalom
 Shalom Al�rem.
 
 Nous vous annon�ons
@@ -10739,7 +10739,7 @@ l�amour (4)
 L�amour de J�sus
 
 Hevenou Shalom, Al�rem (3)
- Hevenou Shalom, shalom
+Hevenou Shalom, shalom
 Shalom Al�rem.
 
 HIFAMPITANTANA
@@ -11010,7 +11010,7 @@ Misaora an�i Jehovah,
 ry fanahiko
 Ary izay rehetra ato anatiko,
 Misaora ny Anarany masina
- Misaora an�i Jehovah,
+Misaora an�i Jehovah,
 ry fanahiko
 Ary aza misy hadinoinao
 Ny fitahiany rehetra
@@ -11438,8 +11438,5 @@ Admirer sa beaut�,
 Apprendre � Le conna�tre
 Tel qu�il est vraiment
 
-
-
-
-366
-sss
+ENDD
+end
