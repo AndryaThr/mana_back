@@ -52,6 +52,7 @@ const job = new CronJob(
 // }
 
 const createNewUser = (req, res) => {
+    // console.log(req.header)
     User.findOne({phone: req.body.phone}).then(user => {
       if(user)
       {
