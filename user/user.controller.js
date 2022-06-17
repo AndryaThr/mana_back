@@ -28,155 +28,130 @@ const job = new CronJob(
   );
 
 
-// class testController {
-//   createNewUser(req, res) {
-//     bcrypt
-//       .hash(req.body.password, 10)
-//       .then((hash) => {
-//         const user = new User({
-//           name: req.body.name,
-//           firstname: req.body.firstname,
-//           password: hash,
-//           phone: req.body.phone,
-//           paid: false,
-//         });
-//         user
-//           .save()
-//           .then(() => {
-//             res.json({ message: "User created with success!" })
-//           })
-//           .catch((err) => {console.error(err)});
-//       })
-//       .catch((err) => console.log(err));
-//   }
-// }
-
-const createNewUser = (req, res) => {
-    // console.log(req.header)
-    User.findOne({phone: req.body.phone}).then(user => {
-      if(user)
-      {
-        res.json({
-          success: false,
-          message: "Phone already used. Please use another phone number.",
-        })
-      }
-      else
-      {
-        bcrypt.hash(req.body.password, 10)
-        .then(hash =>
+class UserController{
+    createNewUser = (req, res) => {
+        // console.log(req.header)
+        User.findOne({phone: req.body.phone}).then(user => {
+          if(user)
           {
-          const user = new User({
-              name: req.body.name,
-              firstname: req.body.firstname,
-              password: hash,
-              phone: req.body.phone,
-              paid: false,
-          });
-          user.save().then(() => res.json({message: 'User created with success!'})).catch((err) => console.error(err))
-      }).catch((err) => console.log(err))
-      }
-    })  
-}
-
-const getUser = (req, res) => {
-    User.findById(req.params.id,' -password -__v').then((user) => {res.json({user: user})}).catch((err) => console.log(err))
-}
-
-const putUser = (req, res) => {
-    const user = {...req.body}
-    User.findOneAndUpdate({id:req.params.id}, {...user}).then((user) => res.json({user: user})).catch((err) => console.log(err))
-}
-
-const login = (req, res) => {
-    User.findOne({phone: req.body.phone})
-    .then(user => {
-        if (user)
+            res.json({
+              success: false,
+              message: "Phone already used. Please use another phone number.",
+            })
+          }
+          else
+          {
+            bcrypt.hash(req.body.password, 10)
+            .then(hash =>
+              {
+              const user = new User({
+                  name: req.body.name,
+                  firstname: req.body.firstname,
+                  password: hash,
+                  phone: req.body.phone,
+                  paid: false,
+              });
+              user.save().then(() => res.json({message: 'User created with success!'})).catch((err) => console.error(err))
+          }).catch((err) => console.log(err))
+          }
+        })  
+    }
+    
+    getUser = (req, res) => {
+        User.findById(req.params.id,' -password -__v').then((user) => {res.json({user: user})}).catch((err) => console.log(err))
+    }
+    
+    putUser = (req, res) => {
+        const user = {...req.body}
+        User.findOneAndUpdate({id:req.params.id}, {...user}).then((user) => res.json({user: user})).catch((err) => console.log(err))
+    }
+    
+    login = (req, res) => {
+        User.findOne({phone: req.body.phone})
+        .then(user => {
+            if (user)
+            {
+                bcrypt.compare(req.body.password, user.password)
+                .then(valid => {
+                    if(valid)
+                    {
+                        User.updateOne({phone: user.phone}, {connected: true}).then((user) => {res.json({user: user})}).catch((err) => console.log(err))
+                        res.json({
+                            success: true,
+                            message: "You are connected",
+                            token : jwt.sign(
+                                { phone: user.phone, paid: user.paid },
+                                'RANDOM_TOKEN_SECRET',
+                                {}
+                            )
+                        })
+                    }
+                    else
+                    {
+                        res.json({
+                            success: false,
+                            message: "Authentification error"
+                        });
+                    }
+                })
+                .catch((err) => console.log(err))
+            }
+            else
+            {
+                res.json({
+                    success: false,
+                    message: "Authentification error !"
+                });
+            }
+        })
+        .catch((err) => console.log(err))
+    }
+    
+    pay = (req, res) => {
+        const {phone, paid} = jwt.verify(
+            req.body.token,
+            'RANDOM_TOKEN_SECRET'
+        )
+        if(!paid)
         {
-            bcrypt.compare(req.body.password, user.password)
-            .then(valid => {
-                if(valid)
-                {
-                    User.updateOne({phone: user.phone}, {connected: true}).then((user) => {res.json({user: user})}).catch((err) => console.log(err))
-                    res.json({
-                        success: true,
-                        message: "You are connected",
-                        token : jwt.sign(
-                            { phone: user.phone, paid: user.paid },
-                            'RANDOM_TOKEN_SECRET',
-                            {}
-                        )
+            User.findOne({phone: phone}).then(user =>{
+                if (user) {
+                    User.updateOne({phone: user.phone}, {paid: true}).then(() => {
+                        res.json({
+                            success: true,
+                            message: "Successfully paid !",
+                            token : jwt.sign(
+                                { phone: user.phone, paid: true },
+                                'RANDOM_TOKEN_SECRET',
+                                {}
+                            )
+                        })
                     })
                 }
                 else
                 {
-                    res.json({
-                        success: false,
-                        message: "Authentification error"
-                    });
-                }
+                res.json({
+                    success: false,
+                    message: "User not found !"
+                })}
             })
-            .catch((err) => console.log(err))
         }
         else
         {
             res.json({
                 success: false,
-                message: "Authentification error !"
-            });
+                message: "Already paid !"
+            })
         }
-    })
-    .catch((err) => console.log(err))
-}
-
-const pay = (req, res) => {
-    const {phone, paid} = jwt.verify(
-        req.body.token,
-        'RANDOM_TOKEN_SECRET'
-    )
-    if(!paid)
-    {
-        User.findOne({phone: phone}).then(user =>{
-            if (user) {
-                User.updateOne({phone: user.phone}, {paid: true}).then(() => {
-                    res.json({
-                        success: true,
-                        message: "Successfully paid !",
-                        token : jwt.sign(
-                            { phone: user.phone, paid: true },
-                            'RANDOM_TOKEN_SECRET',
-                            {}
-                        )
-                    })
-                })
-            }
-            else
-            {
-            res.json({
-                success: false,
-                message: "User not found !"
-            })}
-        })
+        // res.json({
+        //     success: true,
+        //     message: "ok",
+        // })
     }
-    else
-    {
-        res.json({
-            success: false,
-            message: "Already paid !"
-        })
-    }
-    // res.json({
-    //     success: true,
-    //     message: "ok",
-    // })
 }
 
-module.exports = {
-    createNewUser : createNewUser,
-    getUser : getUser,
-    putUser : putUser,
-    login : login,
-    pay : pay,
-}
 
-// module.exports = new testController();
+
+const userControl= new UserController()
+
+module.exports = userControl;
